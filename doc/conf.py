@@ -23,7 +23,7 @@ hs.set_log_level("ERROR")
 # -- Project information -----------------------------------------------------
 
 project = "HoloSpy"
-copyright = "2023, HyperSpy Developers"
+copyright = "2025, HyperSpy Developers"
 author = "HyperSpy Developers"
 
 
