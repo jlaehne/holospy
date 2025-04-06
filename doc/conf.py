@@ -47,6 +47,7 @@ extensions = [
 
 linkcheck_ignore = [
     "https://onlinelibrary.wiley.com",  # 403 Client Error: Forbidden for url
+    "https://doi.org/10.1063/1.4916609",  # 403 Client Error: Forbidden for url
 ]
 
 intersphinx_mapping = {
